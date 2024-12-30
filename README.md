@@ -1,9 +1,11 @@
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
+
 Developed by: V.HARIHARAN
 
 REG NO:24002937
+
 **AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
